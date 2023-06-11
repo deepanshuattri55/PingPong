@@ -1,5 +1,4 @@
 # Pong-Game-Python-
-Its time to go back to childhood memories. It's time for PONG !!
 
 The code struture goes like the following:
 * The main file connects all the other files.
